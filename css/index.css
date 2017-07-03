@@ -1,0 +1,56 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header {
+	background-color:#222222 ;
+	height: 60px;
+	width: 100%;
+}
+.headinside{
+	background-color:#222222 ;
+	margin: 0 auto;
+	width: 1000px;
+	height: 60px;
+	font-family: "Open Sans",sans-serif;
+}
+.navbarleft{
+	background-color:#222222;
+	width: 200px;
+	height: 40px;
+	float: left;
+	margin-top:20px;
+	font-size: 20px;
+
+}
+.log{
+	color: white;
+}
+.navbarright{
+	background-color:#222222;
+	width: 500px;
+	height: 60px;
+	float: right;
+	display: block;
+}
+.navbarlist li{
+	font-family:"Open Sans",sans-serif;
+	list-style-type: none;
+	padding-top: 20px;
+	padding-left: 10px; 
+	float: left;
+	font-size:  20px;
+	color:white;
+}
+.imgcanvas{
+	margin: 0 auto;
+	padding-top: 40px;
+	width: 1500px;
+	height: 400px;
+	background-color: gray; 
+}
+.imgblog {
+	margin: 0 auto;
+	width: 580px;
+	height: 290px;
+}
