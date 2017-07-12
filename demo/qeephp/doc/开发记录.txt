@@ -1,0 +1,8 @@
+2010-6-16 10:40:37
+增加qtranslate 多语言类 qeephp/library/helper/qtranslate.php
+修改 qeephp/library/_config/qeephp_class_files.php, 增加qtranslate 类的路径声明
+修改 qeephp/library/q.php 增加_t()函数
+
+2010-6-17 21:06:51
+修改 qeephp/library/q.php 增加函数 getIP()
+修改 qeephp/library/q.php 增加静态变量 IP

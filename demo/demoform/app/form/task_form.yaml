@@ -1,0 +1,10 @@
+~form:
+  _subject: "添加任务"
+ 
+subject:
+  _ui: textbox
+  _label: "任务主题"
+ 
+description:
+  _ui: memo
+  _label: "任务描述"
